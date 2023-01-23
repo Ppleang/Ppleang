@@ -5,7 +5,7 @@
 
 <div>
   <img align="right" src="https://media3.giphy.com/media/20HHL9gfk3MoP8JAIp/giphy.gif?cid=ecf05e47pwiwm5wvk7c0wxz6zfxbypnpuy00bdl5i5yz3a26&rid=giphy.gif&ct=s" width="80" height="80">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"></th>
+  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
