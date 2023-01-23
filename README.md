@@ -13,9 +13,6 @@
     <th rowspan="3"><br><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"></th>
   </tr>
   <tr>
-    <td align="center"><img width="100%" src="https://open.spotify.com/"></td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <img align="center" width="95%" src="https://spotify-recently-played-readme.vercel.app/api?user=x6lp5a8tjyd1ely2jbqnf0eu3&unique={true|1|on|yes})" alt=""></img>
     </td>
