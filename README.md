@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img align="center" width="95%" src="https://spotify-recently-played-readme.vercel.app/api?user=21naz3bxynvq33kljs6f3ytpy&count=1" alt=""></img>
+      <img align="center" width="95%" src="https://spotify-recently-played-readme.vercel.app/api?user=x6lp5a8tjyd1ely2jbqnf0eu3" alt=""></img>
     </td>
   </tr>
   <tr><th colspan="2"><img width="100%" src="https://i.pinimg.com/originals/d2/c0/a7/d2c0a74ad6a2530de22751bf414b3939.gif"></th></tr>
