@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img align="center" width="95%" src="https://spotify-recently-played-readme.vercel.app/api?user=21naz3bxynvq33kljs6f3ytpy&count=1" alt=""></img>
+      <img align="center" width="95%" src="[https://spotify-recently-played-readme.vercel.app/api?user=21naz3bxynvq33kljs6f3ytpy&count=1](https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY?si=1d49512123d64507)" alt=""></img>
     </td>
   </tr>
   <tr><th colspan="2"><img width="100%" src="https://media1.giphy.com/media/PFX8qCMjpF53bTjxLR/giphy.gif?cid=790b7611b6cb764415af623ed5d479a01edb08bc460ab7f3&rid=giphy.gif&ct=g"></th></tr>
