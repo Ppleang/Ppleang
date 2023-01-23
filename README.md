@@ -12,7 +12,7 @@
 <!-- <img align="center" src="https://media3.giphy.com/media/20HHL9gfk3MoP8JAIp/giphy.gif?cid=ecf05e47pwiwm5wvk7c0wxz6zfxbypnpuy00bdl5i5yz3a26&rid=giphy.gif&ct=s" width="80" height="80"> -->
 <table>
   <tr>
-    <td colspan="2" align="center"> 𓂋 🦋 · ᴗ̵ ‹  ◌⃘  ׄ🐥.ﾟ ׅ ࣪৲
+    <td colspan="2" align="center"> ♡̶ 💒 💭 ◞🐰 
       <img align="center" width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=x6lp5a8tjyd1ely2jbqnf0eu3" alt=""></img>
     </td>
     <td><th colspan="2"><img width="100%" src="https://i.pinimg.com/originals/d2/c0/a7/d2c0a74ad6a2530de22751bf414b3939.gif">"Everything is HARD before it is EASY."</th></td>
