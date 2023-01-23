@@ -2,7 +2,7 @@
 
 ₍⑅ᐢ..ᐢ₎♡  ₍ᐢ.  ̯.ᐢ₎
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="right" src="https://i.pinimg.com/originals/d2/c0/a7/d2c0a74ad6a2530de22751bf414b3939.gif">
 <table>
