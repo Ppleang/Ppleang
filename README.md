@@ -4,7 +4,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://media3.giphy.com/media/20HHL9gfk3MoP8JAIp/giphy.gif?cid=ecf05e47pwiwm5wvk7c0wxz6zfxbypnpuy00bdl5i5yz3a26&rid=giphy.gif&ct=s" width="50" height="50">
+<img align="center" src="https://media3.giphy.com/media/20HHL9gfk3MoP8JAIp/giphy.gif?cid=ecf05e47pwiwm5wvk7c0wxz6zfxbypnpuy00bdl5i5yz3a26&rid=giphy.gif&ct=s" width="80" height="80">
 <table>
   <tr>
     <td colspan="2" align="center">
