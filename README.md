@@ -14,13 +14,9 @@
 ⚡ Fun fact: ... -->
 
 <div align="center">
-  <img align="left" src="https://media.tenor.com/w5a0WVW1GbsAAAAd/nijika-bocchi-the-rock.gif" align="left" width="400px" height="208.5px">
-
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=xeff09&label=Profile%20views&color=0e75b6&style=flat" alt="xeff09" /> </p>
-  <br>
   
   <p align="center">
-    <a href="https://www.instagram.com/pp_u.nn/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/pp_u.nn%20-%23f24f1d.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
+    <a href="[https://www.instagram.com/pp_u.nn/?next=%2F](https://www.instagram.com/tjsdl_s/?hl=en)" target="_blank"><img src="https://img.shields.io/badge/pp_u.nn%20-%23f24f1d.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
     <a href="https://github.com/XEFF09" target="_blank"><img src="https://img.shields.io/badge/PpUn,9229%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
   </p>
   
