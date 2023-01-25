@@ -1,10 +1,9 @@
 ## Hi I'm Pleang! <img align="center" src="https://media3.giphy.com/media/20HHL9gfk3MoP8JAIp/giphy.gif?cid=ecf05e47pwiwm5wvk7c0wxz6zfxbypnpuy00bdl5i5yz3a26&rid=giphy.gif&ct=s" width="50" height="50">
 
-<div>
-₍⑅ᐢ..ᐢ₎♡  ₍ᐢ.  ̯.ᐢ₎
+
+<!-- ₍⑅ᐢ..ᐢ₎♡  ₍ᐢ.  ̯.ᐢ₎ -->
 [![Instagram
 Badge](https://img.shields.io/badge/-@tjsd_l-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/?hl=en)](https://www.instagram.com/?hl=en)
-</div>
 
 
 <!-- https://www.instagram.com/?hl=en -->
