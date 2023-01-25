@@ -3,7 +3,7 @@
 
 <!-- ₍⑅ᐢ..ᐢ₎♡  ₍ᐢ.  ̯.ᐢ₎ -->
 [![Instagram
-Badge](https://img.shields.io/badge/-@tjsd_l-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/?hl=en)](https://www.instagram.com/?hl=en)
+Badge](https://img.shields.io/badge/-@tjsd_l-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/?hl=en)](https://www.instagram.com/?hl=en)
 
 
 <!-- https://www.instagram.com/?hl=en -->
