@@ -1,4 +1,5 @@
-## Hi I'm Pleang! <img align="center" src="https://media3.giphy.com/media/20HHL9gfk3MoP8JAIp/giphy.gif?cid=ecf05e47pwiwm5wvk7c0wxz6zfxbypnpuy00bdl5i5yz3a26&rid=giphy.gif&ct=s" width="50" height="50">
+## Hi I'm 𝐏𝐋𝐄𝐀𝐍𝐆! <img align="center" src="https://media3.giphy.com/media/20HHL9gfk3MoP8JAIp/giphy.gif?cid=ecf05e47pwiwm5wvk7c0wxz6zfxbypnpuy00bdl5i5yz3a26&rid=giphy.gif&ct=s" width="50" height="50">
+### ル ˖ ♡ ₍ ᐢ..ᐢ ₎ 📍 ࣪ .  ›
 
 
 <!-- ₍⑅ᐢ..ᐢ₎♡  ₍ᐢ.  ̯.ᐢ₎ -->
