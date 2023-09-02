@@ -8,7 +8,7 @@ Badge](https://img.shields.io/badge/-@tjsd_l-purple?style=flat&logo=instagram&lo
 
 <table>
   <tr>
-    <td colspan="2" align="center"> ♡̶ 💒 💭 ◞🐰 
+    <td colspan="1" align="center"> ♡̶ 💒 💭 ◞🐰 
       <img align="center" width="150%" src="https://spotify-recently-played-readme.vercel.app/api?user=x6lp5a8tjyd1ely2jbqnf0eu3" alt=""></img>
     </td>
     <td>
