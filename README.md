@@ -22,7 +22,7 @@ Badge](https://img.shields.io/badge/-@tjsd_l-purple?style=flat&logo=instagram&lo
     <td colspan="2" align="center"> ♡̶ 💒 💭 ◞🐰 
       <img align="center" width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=x6lp5a8tjyd1ely2jbqnf0eu3" alt=""></img>
     </td>
-    <td><th colspan="2"><img width="100%" src="https://i.pinimg.com/originals/8d/be/96/8dbe966e815f9aa53bd12d9bb640b83c.gif">"Everything is HARD before it is EASY."</th></td>
+    <td><th colspan="2"><img width="100%" src="https://i.pinimg.com/originals/af/3a/ef/af3aef3f7edf0294bdecd2b9d0115146.gif">"Everything is HARD before it is EASY."</th></td>
   </tr>
 <!--   <tr><th colspan="2"><img width="100%" src="https://i.pinimg.com/originals/d2/c0/a7/d2c0a74ad6a2530de22751bf414b3939.gif"></th></tr> -->
 </table>
