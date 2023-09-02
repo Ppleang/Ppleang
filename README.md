@@ -9,7 +9,7 @@ Badge](https://img.shields.io/badge/-@tjsd_l-purple?style=flat&logo=instagram&lo
 <table>
   <tr>
     <td colspan="2" align="center"> ♡̶ 💒 💭 ◞🐰 
-      <img align="center" width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=x6lp5a8tjyd1ely2jbqnf0eu3" alt=""></img>
+      <img align="center" width="150%" src="https://spotify-recently-played-readme.vercel.app/api?user=x6lp5a8tjyd1ely2jbqnf0eu3" alt=""></img>
     </td>
     <td>
       <th colspan="1">"Everything is HARD before it is EASY."<img width="75%" src="https://i.pinimg.com/originals/af/3a/ef/af3aef3f7edf0294bdecd2b9d0115146.gif">
