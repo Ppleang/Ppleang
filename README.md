@@ -12,7 +12,7 @@ Badge](https://img.shields.io/badge/-@tjsd_l-purple?style=flat&logo=instagram&lo
       <img align="center" width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=x6lp5a8tjyd1ely2jbqnf0eu3" alt=""></img>
     </td>
     <td>
-      <th colspan="1">"Everything is HARD before it is EASY."<img width="100%" src="https://i.pinimg.com/originals/74/82/22/74822272ab99ea9f8defbd090a8a68cf.gif">
+      <th colspan="1">"Everything is HARD before it is EASY."<img width="75%" src="https://i.pinimg.com/originals/74/82/22/74822272ab99ea9f8defbd090a8a68cf.gif">
       </th>
     </td>
   </tr>
