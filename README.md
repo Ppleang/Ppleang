@@ -1,8 +1,8 @@
-## Hi I'm 𝐏𝐋𝐄𝐀𝐍𝐆! <img align="center" src="https://media.giphy.com/media/cJ4v3Vts7hcBAC1iDy/giphy.gif" width="50" height="50">
+## Hi I'm 𝐏𝐋𝐄𝐀𝐍𝐆! <img align="center" src="[https://media.giphy.com/media/cJ4v3Vts7hcBAC1iDy/giphy.gif](https://giphy.com/embed/cJ4v3Vts7hcBAC1iDy)" width="50" height="50">
 <h4 align = "center">Everything is HARD before it is EASY.</h4>
 <img width="100%" align="center" src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif">
 
-<table>
+<table align="center">
 <tr>
     <td>
     <h6>🪐 I’m studying Computer Science.</h6>
