@@ -1,6 +1,6 @@
 ## Hi I'm 𝐏𝐋𝐄𝐀𝐍𝐆! ✩ ₊˚🎧⊹♡⩇⩇:⩇⩇
 <h4 align = "center">Everything is HARD before it is EASY.</h4>
-<img width="75%" align="center" src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif">
+<img width="100%" align="center" src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif">
 
 <table align="center">
 <tr>
