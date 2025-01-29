@@ -1,10 +1,10 @@
 ## Hi I'm 𝐏𝐋𝐄𝐀𝐍𝐆! ✩ ₊˚🎧⊹♡⩇⩇:⩇⩇
 <h3 align = "center">Everything is HARD before it is EASY.</h3>
 <td>
-    <h6>🪐 I’m studying Computer Science.</h6>
-    <h6>✨ I’m currently learning coding.</h6>
-    <h6>🫧 I want to sleep all the time.</h6>
-    <h6>Languages and Tools 🧷</h6>
+    <h4>🪐 I’m studying Computer Science.</h4>
+    <h4>✨ I’m currently learning coding.</h4>
+    <h4>📫 How to reach me: ppleangnichakan@gmail.com</h4>
+    <h4 >Languages and Tools 🧷</h4>
     <p >
       <a href="https://skillicons.dev">
       <img width=25% src="https://skillicons.dev/icons?i=python,c,cpp,java,vue,docker&perline=4" />
