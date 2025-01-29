@@ -7,7 +7,7 @@
     <h6>Languages and Tools 🧷</h6>
     <p >
       <a href="https://skillicons.dev">
-      <img width=75% src="https://skillicons.dev/icons?i=python,c,cpp,java,vue,docker&perline=4" />
+      <img width=25% src="https://skillicons.dev/icons?i=python,c,cpp,java,vue,docker&perline=4" />
       </a>
     </p>
 <img width="100%" align="center" src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif">
